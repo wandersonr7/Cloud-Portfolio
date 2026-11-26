@@ -1,6 +1,6 @@
 # Hands-on Labs
 
-Use this folder for reproducible technical exercises completed outside graded coursework.
+Use this folder for small reproducible technical exercises.
 
 Each lab should have its own folder and README:
 
